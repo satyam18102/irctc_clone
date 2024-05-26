@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    font-family: "Manrope";
+    position: fixed;
+}
+.main{
+    display: flex;
+}
+.image{
+    width: 50%;
+    margin: 6rem 2rem 6rem 13rem;
+}
+.content{
+    margin-right: 2rem;
+    margin-top: 2rem;
+    width: 50%;
+}
+.head{
+    color: #ffffff;
+}
+h1{
+    font-size: 2.7rem;
+}
+h3{
+    font-size: 1.6rem;
+    margin-top: -1.6rem;
+}
+.in-1{
+    height: 2.1rem;
+    width: 18rem;
+    background-color: #000000;
+    border: 1px solid grey;
+    border-radius: 1.6rem;
+    padding: 0.2rem 0 0 1rem;
+    margin-top: 1rem;
+    color: #ffffff;
+}
+.btn{
+    display: block;
+    background-color: #1983f7;
+    margin-top: 1rem;
+    height: 2.4rem;
+    width: 19rem;
+    border: 1px solid grey;
+    border-radius: 1.6rem;
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: 400;
+    cursor: pointer;
+    opacity: 0.9;
+}
+.btn:hover{
+    opacity: 1;
+}
+.hr{
+    display: flex;
+    margin-left: 0;
+    margin-top: 3rem;
+    width: 8rem;
+}
+.hr-1{
+    display: flex;
+    position: relative;
+    top: -88px;
+    left: 155px;
+    margin-left: 0;
+    margin-top: 3rem;
+    width: 8rem;   
+}
+p{
+    display: flex;
+    color: #ffffff;
+    position: relative;
+    top: -29px;
+    left: 135px;
+}
+.google{
+    height: 1rem;
+    width: 1rem;
+    margin-right: 1rem;
+}
+.btn-1{
+    display: block;
+    background-color: #ffffff;
+    margin-top: -4rem;
+    height: 2.4rem;
+    width: 19rem;
+    border: 1px solid grey;
+    border-radius: 1.6rem;
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    opacity: 0.9;
+}
+.btn-2{
+    display: block;
+    background-color: #ffffff;
+    margin-top: 1rem;
+    height: 2.4rem;
+    width: 19rem;
+    border: 1px solid grey;
+    border-radius: 1.6rem;
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    opacity: 0.9;
+}
+.btn-2:hover{
+    opacity: 1;
+}
+.btn-1:hover{
+    opacity: 1;
+}
+.btn:hover{
+    opacity: 1;
+}
+.h{
+    color: #ce0e0e;
+}
